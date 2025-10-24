@@ -1,0 +1,17 @@
+pandas
+numpy
+sqlalchemy
+jupyterlab
+plotly
+dash
+scikit-learn
+matplotlib
+dask
+pytest
+pydantic
+joblib
+jinja2
+weasyprint
+black
+flake8
+
