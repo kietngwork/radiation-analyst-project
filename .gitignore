@@ -1,4 +1,8 @@
-data/raw/
-data/processed/
-.DS_Store
 venv/
+data/raw/
+data/processed/*.parquet
+src/models/*.pkl
+reports/*.pdf
+reports/*.html
+__pycache__/
+
